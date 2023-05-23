@@ -19,4 +19,7 @@ const pemetaan= ((makanan)=>{
         return "gada hewannya!"
     }
 });
-console.log(pemetaan("ikan"));
+setTimeout(() => {
+    console.log(pemetaan("ikan"));
+   }, 5000);
+   
