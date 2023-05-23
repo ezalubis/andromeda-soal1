@@ -1,0 +1,13 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal-1.js",
+  "scripts": {
+    "mulai": "node soal-1.js && node soal-2.js && echo BERHASIL"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
